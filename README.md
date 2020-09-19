@@ -5,18 +5,18 @@
 ## Gif Screencasts
 
 ### On initial load, call to collection endpoint:
-[![Image from Gyazo](https://gyazo.com/cfe8b7e243fb7530e63b7b955fb0a478)
+https://i.gyazo.com/cfe8b7e243fb7530e63b7b955fb0a478.gif
 
 ### Click on an individual libation, call to single drink resource:
-[![Image from Gyazo](https://i.gyazo.com/9811c642f4146c75249362d6facd33a7.gif)](https://gyazo.com/9811c642f4146c75249362d6facd33a7)
+https://i.gyazo.com/9811c642f4146c75249362d6facd33a7.gif
 
 ### Search drink by name and then go back to landing page:
-[![Image from Gyazo](https://i.gyazo.com/7c3af077b97bd3365085f1f346ec3df3.gif)](https://gyazo.com/7c3af077b97bd3365085f1f346ec3df3)
+https://i.gyazo.com/7c3af077b97bd3365085f1f346ec3df3.gif
 
-[![Image from Gyazo](https://i.gyazo.com/4993b0caafcd0b107791149ae7502eec.gif)](https://gyazo.com/4993b0caafcd0b107791149ae7502eec)
+https://i.gyazo.com/4993b0caafcd0b107791149ae7502eec.gif
 
 ### Mobile web view:
-[![Image from Gyazo](https://i.gyazo.com/770d6b47d0fea430a9eea2dd6bab192d.gif)](https://gyazo.com/770d6b47d0fea430a9eea2dd6bab192d)
+https://i.gyazo.com/770d6b47d0fea430a9eea2dd6bab192d.gif
 
 ## Project setup
 ```
