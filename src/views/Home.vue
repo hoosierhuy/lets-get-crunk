@@ -78,6 +78,14 @@ export default class Home extends Vue {
 
     this.cocktailList = _cocktailList.data.drinks;
     this.searchString = "";
+
+    // TODO: Create user feedback loop for when libation is not found in the API's database
+    // For example:
+    /**
+      if (this.cocktailList === null) {
+        console.log("This concoction does not exist...yet!");
+      }
+    */
   }
 }
 </script>
