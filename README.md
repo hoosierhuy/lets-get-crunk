@@ -1,4 +1,6 @@
-# cocktails-app
+# VueJS 2.x with TypeScript, Cypress E2E Testing, and "thecocktaildb" public API
+
+### This app was initiated with the Vue CLI.
 
 ## Project setup
 ```
