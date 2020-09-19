@@ -5,7 +5,7 @@
 ## Gif Screencasts
 
 ### On initial load, call to collection endpoint:
-[![Image from Gyazo](https://i.gyazo.com/cfe8b7e243fb7530e63b7b955fb0a478.gif)](https://gyazo.com/cfe8b7e243fb7530e63b7b955fb0a478)
+[![Image from Gyazo](https://gyazo.com/cfe8b7e243fb7530e63b7b955fb0a478)
 
 ### Click on an individual libation, call to single drink resource:
 [![Image from Gyazo](https://i.gyazo.com/9811c642f4146c75249362d6facd33a7.gif)](https://gyazo.com/9811c642f4146c75249362d6facd33a7)
