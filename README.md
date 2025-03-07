@@ -1,4 +1,4 @@
-## VueJS 2.x with TypeScript and "thecocktaildb" public API
+## VueJS 2.x with TypeScript using "thecocktaildb" public API, and Cypress end-to-end Testing
 
 ### This app was initiated with the Vue CLI.
 
